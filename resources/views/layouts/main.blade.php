@@ -18,7 +18,7 @@
 {{-- Header --}}
 
 {{-- Main --}}
-<main>
+<main class="container mt-4">
     @yield('core-content')
 </main>
 
